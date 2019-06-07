@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Title_Bar_Style">
+
+    <TextView
+        style="@style/Title_Bar_Center_Text_Style"
+        android:text="展览详情" />
+
+    <TextView
+        android:id="@+id/comeback"
+        style="@style/ComeBack" />
+</RelativeLayout>

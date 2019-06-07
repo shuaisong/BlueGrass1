@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_have_verification"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.reeching.bluegrass.HaveVerificationActivity">
+
+    <RelativeLayout style="@style/Title_Bar_Style">
+
+        <TextView
+            style="@style/Title_Bar_Center_Text_Style"
+            android:text="当年展览数" />
+
+        <TextView
+            android:id="@+id/comeback"
+            style="@style/ComeBack" />
+
+        <TextView
+            android:id="@+id/search"
+            style="@style/ComeBack"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="5dp"
+            android:text="@string/search" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/no_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray"
+        android:gravity="center"
+        android:text="@string/No_data"
+        android:visibility="gone" />
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/Hualang_haveverification_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

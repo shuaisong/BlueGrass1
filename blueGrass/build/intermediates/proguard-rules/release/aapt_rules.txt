@@ -1,0 +1,316 @@
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:63
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:112
+-keep class android.support.v4.content.FileProvider { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:107
+-keep class com.baidu.location.f { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:349
+-keep class com.iceteck.silicompressorr.provider.GenericFileProvider { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:63
+-keep class com.reeching.BaseApplication { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:133
+-keep class com.reeching.activity.FolderListActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:202
+-keep class com.reeching.activity.HomeActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:134
+-keep class com.reeching.activity.ImageSelectActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:135
+-keep class com.reeching.activity.PreviewImageActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:208
+-keep class com.reeching.activity.Recover_HuaLang { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:210
+-keep class com.reeching.activity.SearchExhibition { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:204
+-keep class com.reeching.activity.VideoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:203
+-keep class com.reeching.activity.VideoGridActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:147
+-keep class com.reeching.bluegrass.AddHualangLocation { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:132
+-keep class com.reeching.bluegrass.AlbumActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:175
+-keep class com.reeching.bluegrass.AllHistoryInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:138
+-keep class com.reeching.bluegrass.AlterHualangActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:139
+-keep class com.reeching.bluegrass.BeginToCheck { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:140
+-keep class com.reeching.bluegrass.BeginToHecha { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:144
+-keep class com.reeching.bluegrass.BitmapDisplay { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:145
+-keep class com.reeching.bluegrass.CheckHualangActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:195
+-keep class com.reeching.bluegrass.GalleryReportActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:146
+-keep class com.reeching.bluegrass.GoHere { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:180
+-keep class com.reeching.bluegrass.HaveCheckActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:181
+-keep class com.reeching.bluegrass.HaveCheckInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:191
+-keep class com.reeching.bluegrass.HaveReportedActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:185
+-keep class com.reeching.bluegrass.HaveVerificationActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:186
+-keep class com.reeching.bluegrass.HaveVerificationInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:151
+-keep class com.reeching.bluegrass.HistoryInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:174
+-keep class com.reeching.bluegrass.HuaLangAllHistoryActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:169
+-keep class com.reeching.bluegrass.HuaLangPlanActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:156
+-keep class com.reeching.bluegrass.HuaLangSerchActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:164
+-keep class com.reeching.bluegrass.HuaLangShowingActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:155
+-keep class com.reeching.bluegrass.HualangHistoryActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.reeching.bluegrass.LoginActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:160
+-keep class com.reeching.bluegrass.MainActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:200
+-keep class com.reeching.bluegrass.MatterActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:159
+-keep class com.reeching.bluegrass.PersionInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:198
+-keep class com.reeching.bluegrass.PicViewActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:199
+-keep class com.reeching.bluegrass.PicViewActivityTemp { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:170
+-keep class com.reeching.bluegrass.PlanInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:179
+-keep class com.reeching.bluegrass.ReportedDetailActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:196
+-keep class com.reeching.bluegrass.ShelvesActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:165
+-keep class com.reeching.bluegrass.ShowingInfoActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class com.reeching.bluegrass.SpActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:190
+-keep class com.reeching.bluegrass.WaitForHeChaActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:197
+-keep class com.reeching.bluegrass.XiaJiaActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:201
+-keep class com.reeching.bluegrass.XiadaActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:101
+-keep class com.reeching.utils.NetCheckReceiver { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:209
+-keep class com.reeching.video.CameraActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:217
+-keep class com.taobao.accs.ChannelService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:269
+-keep class com.taobao.accs.ChannelService$KernelService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:236
+-keep class com.taobao.accs.EventReceiver { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:254
+-keep class com.taobao.accs.ServiceReceiver { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:228
+-keep class com.taobao.accs.data.MsgDistributeService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:265
+-keep class com.taobao.accs.internal.AccsJobService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:296
+-keep class com.taobao.agoo.AgooCommondReceiver { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:319
+-keep class com.umeng.message.NotificationProxyBroadcastReceiver { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:339
+-keep class com.umeng.message.UmengDownloadResourceService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:279
+-keep class com.umeng.message.UmengIntentService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:323
+-keep class com.umeng.message.UmengMessageCallbackHandlerService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:310
+-keep class com.umeng.message.UmengMessageIntentReceiverService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:287
+-keep class com.umeng.message.XiaomiIntentService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:343
+-keep class com.umeng.message.provider.MessageProvider { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:211
+-keep class com.yancy.imageselector.ImageSelectorActivity { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\build\intermediates\merged_manifests\release\AndroidManifest.xml:272
+-keep class org.android.agoo.accs.AgooService { <init>(); }
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_video.xml:2
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_exhibition_search.xml:2
+-keep class android.support.constraint.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9cf32f9cf9e6047ca317b903a814dc06\res\layout\design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\preview_image_activity.xml:9
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_grid_item.xml:2
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_folder_item.xml:2
+-keep class android.support.v7.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_gridview_main.xml:22
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_folder_main.xml:21
+-keep class android.support.v7.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d4be16d917f5edf8b7e9fb9b0ad3dd41\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_video.xml:10
+-keep class cn.jzvd.JZVideoPlayerStandard { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_map.xml:13
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_recover_hua_lang.xml:51
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_persion_info.xml:71
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_go_here.xml:23
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_check_hualang.xml:46
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_alter_hualang.xml:50
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_add_hua_lang.xml:46
+-keep class com.baidu.mapapi.map.MapView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_welldone.xml:17
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_waitforhecha.xml:23
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_waitforcheck.xml:17
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_maplist.xml:22
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_detailreported.xml:9
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_shelves.xml:36
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_report_detail.xml:30
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_matter.xml:31
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_hualang_history.xml:30
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_hua_lang_showing.xml:32
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_hua_lang_plan.xml:31
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_hua_lang_all_history.xml:31
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_have_verification.xml:37
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_have_check.xml:38
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_exhibition_search.xml:48
+-keep class com.handmark.pulltorefresh.library.PullToRefreshListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\preview_image_activity.xml:15
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_gridview_main.xml:10
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\photo_folder_main.xml:10
+-keep class com.jarek.library.TitleView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_maplist.xml:33
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_map.xml:19
+-keep class com.reeching.bluegrass.MyEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\upload_file.xml:11
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_detailreport.xml:170
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_xia_jia.xml:34
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_showing_info.xml:43
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_recover_hua_lang.xml:135
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_plan_info.xml:44
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_myshare.xml:55
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_history_info.xml:42
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_have_verification_info.xml:41
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_have_reported.xml:43
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_have_check_info.xml:42
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_del_hua_lang_info.xml:41
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_check_hualang.xml:124
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_begin_to_hecha.xml:188
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_begin_to_check.xml:187
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_alter_hualang.xml:134
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_all_history_info.xml:42
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_add_hua_lang.xml:126
+-keep class com.reeching.bluegrass.NoScrollGridView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\pull_camera_single.xml:55
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\plugin_camera_gallery.xml:54
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_gallery_report.xml:58
+-keep class com.reeching.bluegrass.ViewPagerFixed { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_pic_view.xml:11
+-keep class com.reeching.utils.HackyViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_report.xml:47
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_hualang.xml:55
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_anjian.xml:64
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\activity_main.xml:11
+-keep class com.reeching.utils.MyViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\fragment_camera2_video.xml:21
+-keep class com.reeching.video.AutoFitTextureView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\share_photo_gvitem.xml:8
+# Referenced at E:\Andoid_studio\studio\workpace\project\BlueGrass1\blueGrass\src\main\res\layout\em_choose_griditem.xml:12
+-keep class com.reeching.view.RecyclingImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
